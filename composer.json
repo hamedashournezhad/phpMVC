@@ -1,0 +1,15 @@
+{
+    "name": "lion/de",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamed Ashournezhad"
+        }
+    ],
+    "require": {}
+}
