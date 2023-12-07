@@ -1,5 +1,4 @@
 <?php
-
-include 'vendor/autoload.php';
-
-new App\Core\Request();
+include "./Bootstrap/init.php";
+use App\Utilities\Access;
+echo Access::AddStyle("css/index.css");

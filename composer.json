@@ -11,5 +11,7 @@
             "name": "Hamed Ashournezhad"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
 }
